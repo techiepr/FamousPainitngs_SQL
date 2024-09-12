@@ -1,2 +1,2 @@
 # FamousPainitngs_SQL
-This is for my SQL Practice and Preperation
+This is for my SQL Practice and Preperation.
